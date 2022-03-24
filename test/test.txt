@@ -1,0 +1,5 @@
+#!/bin/bash
+OPENCV_VERSION = 3.4.1
+sdf#
+sudo apt-get update
+sudo apt-get upgrade -y
